@@ -18,3 +18,15 @@ python extract_mp3.py
 
 - Audio Download (WAV): [https://www.dropbox.com/scl/fo/60skemcud8d1z3u8o1d3f/AHAULYZqtK2jdr2z_bihnpw?rlkey=opbewygwkhf168dgkm6bh27zw&e=1&st=gh6ziyw0&dl=0]
 - Extraction Script: [Download extract_mp3.py](https://raw.githubusercontent.com/numanu107/mirrorstate-audio-extractor/refs/heads/main/extract_mp3.py)
+
+## Audio Usage & Licensing
+The embedded audio in this project is **not registered with any collecting society (e.g. GEMA)** and is offered under the following conditions:
+
+– Public playback (e.g. in DJ sets, exhibitions, streams, video art, etc.) is permitted
+– Remixes, edits, and reinterpretations are allowed
+– Redistribution, resale, or commercial use of the audio (e.g. in compilations, paid downloads, sync usage) requires explicit credit: 
+**Music by Manuel Meyer Burrichter**
+– Any usage in official releases (digital or physical) must include proper attribution and metadata credit
+– The composer reserves the right to register the works with a collecting society (e.g. GEMA) at a later date
+
+**By using this material, you agree to respect these terms.**
