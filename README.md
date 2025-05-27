@@ -17,4 +17,4 @@ python extract_mp3.py
 ## Links
 
 - Audio Download (WAV): [https://www.dropbox.com/scl/fo/60skemcud8d1z3u8o1d3f/AHAULYZqtK2jdr2z_bihnpw?rlkey=opbewygwkhf168dgkm6bh27zw&e=1&st=gh6ziyw0&dl=0]
-- Extraction Script: [GitHub Repo Link or direct .py file link]](https://raw.githubusercontent.com/numanu107/mirrorstate-audio-extractor/refs/heads/main/extract_mp3.py)
+- Extraction Script: [Download extract_mp3.py](https://raw.githubusercontent.com/numanu107/mirrorstate-audio-extractor/refs/heads/main/extract_mp3.py)
