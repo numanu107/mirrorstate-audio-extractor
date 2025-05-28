@@ -4,7 +4,7 @@ Script to extract embedded MP3 from visual NFT
 
 ## How to use
 
-1. Download the NFT image (e.g. `01 NUPEPEN SHARD.png`)
+1. Download the NFT image (e.g. `Opepen Shard.png`)
 2. Download the Python script `extract_mp3.py`
 3. Open your terminal in the same folder
 4. Make sure to update the image filename inside the script before running.
