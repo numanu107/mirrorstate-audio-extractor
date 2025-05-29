@@ -31,8 +31,9 @@ The embedded audio in this project is **not registered with any collecting socie
 – Public playback (e.g. in DJ sets, exhibitions, streams, video art, etc.) is permitted
 – Remixes, edits, and reinterpretations are allowed
 – Redistribution, resale, or commercial use of the audio (e.g. in compilations, paid downloads, sync usage) requires explicit credit: 
-**Music by Manuel Meyer Burrichter**
+**Music by Manuel Meyer**
 – Any usage in official releases (digital or physical) must include proper attribution and metadata credit
 – The composer reserves the right to register the works with a collecting society (e.g. GEMA) at a later date
+– All tracks written and produced by Manuel Meyer Burrichter.
 
 **By using this material, you agree to respect these terms.**
